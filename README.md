@@ -508,3 +508,9 @@ Validate the login form by testing the login functionality on the server side.
 
 # Output :
 ![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-10-BOOTSTRAP/assets/80164014/b331ac5d-0bc0-41e6-b8d5-870d68d92dc2)
+
+# Result :
+Successfully executed all the given programs using bootstrap.
+## Name : K Santhan Kumar
+## Register Number : 212223240065
+
